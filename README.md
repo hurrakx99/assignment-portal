@@ -19,11 +19,7 @@ Setup:
 
 
 
-
 Running the Project
 
 	node server.js
-The server should now be running at http://localhost:5000. You should see output similar to:
-•	MongoDB Connected: localhost
-•	Server running on port 5000
 
